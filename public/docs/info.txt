@@ -1,0 +1,237 @@
+# MAKANI CONTRACTING & GENERAL SUPPLIES
+
+## Corporate Profile | Technical Portfolio | KPI Report | Web Requirements
+
+---
+
+# 1. Company Overview
+
+**Makany Contracting & General Supplies** is an Egyptian contracting and technical services company specializing in:
+
+* General Contracting
+* Solar Energy Systems
+* Electrical & Mechanical Works
+* Generator Supply & Installation
+* Facility Management
+* Industrial Maintenance
+* Technical Procurement & General Supplies
+
+The company operates with a practical engineering approach focused on **quality execution, consultant approval, safety compliance, and timely delivery**.
+
+---
+
+# 2. Core Business Areas
+
+* Renewable Energy (Solar PV Systems)
+* Power Backup Systems (Generators & ATS Panels)
+* Electrical Distribution Systems (MDB / SMDB / Control Panels)
+* Mechanical Equipment Support
+* Facility Management Services
+* Preventive & Corrective Maintenance
+* Industrial Supply Chain & Procurement
+
+---
+
+# 3. Project Experience Summary
+
+| Sector                  | Project Type                 | Scope of Work                                                                    | Location                   | Status                |
+| ----------------------- | ---------------------------- | -------------------------------------------------------------------------------- | -------------------------- | --------------------- |
+| Solar Energy            | Utility & Industrial Support | PV installation support, cabling, inverter integration, commissioning assistance | Egypt (Industrial Zones)   | Completed / Supported |
+| Power Systems           | Generator Projects           | Supply, installation, ATS connection, load testing                               | Multi-site Egypt           | Completed / Supported |
+| Electrical Systems      | Panel Works                  | MDB / SMDB / Control panels installation & maintenance                           | Egypt                      | Completed / Supported |
+| Pharmaceutical Industry | Industrial Support           | Compressor supply, mechanical installation support, spare parts supply           | Alexandria Industrial Zone | Completed / Supported |
+| Facility Management     | Maintenance Contracts        | Electrical, mechanical, HVAC maintenance support                                 | Multi facilities           | Ongoing               |
+| Heavy Industrial        | Technical Support            | Supply and maintenance support for industrial environments                       | Egypt                      | Completed / Supported |
+
+**Note:** The table above reflects company experience, support work, and project exposure. Final wording may be adjusted depending on available documentation, references, or client approvals.
+
+---
+
+# 4. International Market Exposure
+
+## Saudi Arabia – Exposure
+
+Makany has technical and commercial exposure to project environments aligned with Saudi market requirements, including:
+
+* Solar energy system support activities
+* Electrical installation support for industrial facilities
+* Generator systems and backup power solutions
+* Technical procurement and material supply support
+* Maintenance and site coordination services
+
+## United Arab Emirates – Exposure
+
+The company has experience exposure in UAE-related project environments including:
+
+* Renewable energy system support
+* Electrical and mechanical supply works
+* Facility maintenance support
+* Technical procurement and spare parts supply
+* Industrial and commercial installation support
+
+---
+
+# 5. Key Performance Indicators (KPI)
+
+| KPI Category                        | Performance Target |
+| ----------------------------------- | ------------------ |
+| On-Time Delivery                    | 95%+               |
+| Consultant Acceptance Rate          | 90%+               |
+| Rework Rate                         | < 3%               |
+| Emergency Response Time             | 4–8 Hours          |
+| Preventive Maintenance Compliance   | 98%+               |
+| Safety Compliance                   | 100%               |
+| Project Documentation Completion    | 100%               |
+| Material Readiness Before Execution | 100%               |
+| Client Satisfaction Level           | High               |
+
+**Note:** KPI values may be presented as internal targets or historical performance indicators depending on the final submission context.
+
+---
+
+# 6. Execution Methodology
+
+All projects are executed based on:
+
+* Approved technical drawings
+* Consultant specifications
+* Site method statements
+* Safety procedures (HSE compliance)
+* Manufacturer installation guidelines
+* Inspection and testing procedures
+* Final consultant handover approval
+
+---
+
+# 7. Company Strengths
+
+* Multi-sector engineering capability
+* Fast site mobilization
+* Strong maintenance background
+* Practical execution approach
+* Consultant-ready delivery system
+* Technical procurement capability
+* Ability to handle industrial environments
+* Strong coordination with contractors and suppliers
+
+---
+
+# 8. Project Delivery Flow
+
+1. Site Survey
+2. Technical Review
+3. Scope Confirmation
+4. Material Planning
+5. Execution Plan
+6. Installation Works
+7. Testing & Commissioning
+8. Punch List Clearance
+9. Consultant Approval
+10. Final Handover
+
+---
+
+# 9. WEBSITE REQUIREMENTS (FOR PROGRAMMER – 2026 STANDARD)
+
+## 9.1 Project Type
+
+Corporate Website for Contracting & Engineering Company
+
+## 9.2 Pages Structure
+
+### 1. Home Page
+
+* Company intro banner
+* Services overview
+* Featured projects
+* KPI highlights
+* Contact button (WhatsApp + Call)
+
+### 2. About Us
+
+* Company profile
+* Mission & Vision
+* Experience summary
+* Market exposure (Egypt + Gulf)
+
+### 3. Services
+
+* Solar Energy Systems
+* Electrical Works
+* Generators
+* Facility Management
+* Maintenance
+* Procurement
+
+### 4. Projects Portfolio
+
+* Table or cards layout
+* Filter by category
+* Project details page
+* Status (Completed / Ongoing)
+
+### 5. KPI Dashboard (Optional Modern Feature)
+
+* Performance indicators
+* Graphs (delivery, safety, maintenance)
+
+### 6. Contact Us
+
+* Form (Name / Email / Message)
+* Phone / WhatsApp integration
+* Google Maps location
+
+## 9.3 Technical Requirements (2026 Standard)
+
+* Responsive design (Mobile first)
+* Fast loading (SEO optimized)
+* Dark/Light mode
+* Admin dashboard (optional)
+* CMS support (update projects easily)
+* WhatsApp API integration
+* SEO structure (meta tags, schema)
+* Security SSL certificate
+* Hosting optimized for performance
+
+## 9.4 Suggested Tech Stack
+
+* Frontend: React / Next.js
+* Backend: Node.js or Laravel
+* Database: MySQL / MongoDB
+* Hosting: Cloud (AWS / DigitalOcean)
+
+---
+
+# 10. Vendor / Client Experience Positioning
+
+Makany Contracting & General Supplies delivers practical engineering execution, technical supply, and maintenance solutions across Egypt and regional markets, with a strong commitment to quality, safety, and consultant-approved delivery standards.
+
+---
+
+# 11. Additional Sections Recommended for Final Submission
+
+To make the profile stronger, add the following as annexes if available:
+
+* Commercial Registration
+* Tax Card
+* Company Stamp
+* Photos of Executed Works
+* Supplier List
+* Client References
+* Certificates of Completion
+* Engineer CVs
+* Organization Chart
+* HSE Policy
+* Equipment List
+
+---
+
+# 12. Final Corporate Statement
+
+**Makani Contracting & General Supplies is a results-driven technical contractor delivering solar energy, power systems, maintenance, facility management, and supply solutions with a strong commitment to quality, compliance, and on-time delivery.**
+
+---
+
+# 13. Short Version for Website Footer or Company Profile End
+
+Professional Contracting, General Supplies, Solar Energy & Facility Solutions.
