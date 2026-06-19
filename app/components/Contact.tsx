@@ -80,6 +80,7 @@ export default function Contact() {
       value: "+20 1206222294",
       href: "https://wa.me/201206222294",
     },
+    
     {
       icon: (
         <svg
