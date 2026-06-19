@@ -7,6 +7,26 @@ type Filter = 'all' | Cat
 
 /* Category assignments based on image content */
 const photos: { file: string; cat: Cat }[] = [
+  /* ── New project photos (2026) ───────────────────────── */
+  { file: 'solar-aerial-school-01.jpeg',                      cat: 'solar'      },
+  { file: 'solar-aerial-school-02.jpeg',                      cat: 'solar'      },
+  { file: 'solar-carport-01.jpeg',                            cat: 'solar'      },
+  { file: 'solar-carport-02.jpeg',                            cat: 'solar'      },
+  { file: 'solar-carport-03.jpeg',                            cat: 'solar'      },
+  { file: 'solar-rooftop-array.jpeg',                         cat: 'solar'      },
+  { file: 'solar-rooftop-carpark.jpeg',                       cat: 'solar'      },
+  { file: 'solar-rooftop-foundations.jpeg',                   cat: 'solar'      },
+  { file: 'solar-farm-01.jpeg',                               cat: 'solar'      },
+  { file: 'solar-farm-02.jpeg',                               cat: 'solar'      },
+  { file: 'solar-farm-03.jpeg',                               cat: 'solar'      },
+  { file: 'solar-desert-01.jpeg',                             cat: 'solar'      },
+  { file: 'solar-desert-02.jpeg',                             cat: 'solar'      },
+  { file: 'solar-desert-03.jpeg',                             cat: 'solar'      },
+  { file: 'solar-desert-04.jpeg',                             cat: 'solar'      },
+  { file: 'solar-desert-pump.jpeg',                           cat: 'solar'      },
+  { file: 'maintenance-coating-qa.jpeg',                      cat: 'maintenance'},
+  { file: 'generators-engine-01.jpeg',                        cat: 'generators' },
+  /* ── Earlier project photos ──────────────────────────── */
   { file: 'WhatsApp Image 2026-06-14 at 5.56.47 PM.jpeg',      cat: 'generators' },
   { file: 'WhatsApp Image 2026-06-14 at 5.56.51 PM.jpeg',      cat: 'generators' },
   { file: 'WhatsApp Image 2026-06-14 at 5.56.54 PM.jpeg',      cat: 'solar'      },

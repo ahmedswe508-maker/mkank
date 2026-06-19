@@ -41,9 +41,11 @@ export default function Navbar() {
 
           {/* Logo */}
           <a href="#home" className="flex items-center gap-2.5 shrink-0">
-            <div className="w-8 h-8 bg-secondary rounded flex items-center justify-center shadow">
-              <span className="text-primary font-black text-sm leading-none">M</span>
-            </div>
+            <img
+              src="/logo/makani-icon.jpeg"
+              alt="Makani logo"
+              className="w-9 h-9 rounded-md object-cover shadow ring-1 ring-white/15"
+            />
             <span className={`font-bold text-sm sm:text-base transition-colors ${logoCls}`}>
               {lang === 'ar' ? 'مكاني للمقاولات' : 'Makani Contracting'}
             </span>
