@@ -220,7 +220,7 @@ export default function Projects() {
     { key: "solar", label: t.projects.solar },
     { key: "electrical", label: t.projects.electrical },
     { key: "generators", label: t.projects.generators },
-    { key: "maintenance", label: t.projects.maintenance },
+    // { key: "maintenance", label: t.projects.maintenance },
   ];
 
   const catLabel: Record<Cat, string> = {
