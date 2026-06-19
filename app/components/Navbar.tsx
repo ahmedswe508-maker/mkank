@@ -1,5 +1,6 @@
 'use client'
 import { useState, useEffect } from 'react'
+import Link from 'next/link'
 import { useLang } from '../context/LangContext'
 
 export default function Navbar() {
@@ -40,7 +41,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
 
           {/* Logo */}
-          <a href="#home" className="flex items-center gap-2.5 shrink-0">
+          <Link href="/#home" className="flex items-center gap-2.5 shrink-0">
             <img
               src="/logo/makani-icon.jpeg"
               alt="Makani logo"
@@ -49,12 +50,12 @@ export default function Navbar() {
             <span className={`font-bold text-sm sm:text-base transition-colors ${logoCls}`}>
               {lang === 'ar' ? 'مكاني للمقاولات' : 'Makani Contracting'}
             </span>
-          </a>
+          </Link>
 
           {/* Desktop links */}
           <div className="hidden md:flex items-center gap-5">
             {links.map(l => (
-              <a key={l.id} href={`#${l.id}`} className={`text-sm font-medium transition-colors ${textCls}`}>
+              <a key={l.id} href={`/#${l.id}`} className={`text-sm font-medium transition-colors ${textCls}`}>
                 {l.label}
               </a>
             ))}
@@ -120,7 +121,7 @@ export default function Navbar() {
             {links.map(l => (
               <a
                 key={l.id}
-                href={`#${l.id}`}
+                href={`/#${l.id}`}
                 onClick={() => setMenuOpen(false)}
                 className="block px-4 py-2.5 text-sm font-medium text-faint hover:text-primary hover:bg-canvas rounded-lg mx-2 transition-colors"
               >
