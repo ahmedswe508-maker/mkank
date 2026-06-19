@@ -98,8 +98,8 @@ export default function Contact() {
         </svg>
       ),
       label: t.contact.email_label,
-      value: "info@makani-contracting.com",
-      href: "mailto:info@makani-contracting.com",
+      value: "Maknicontractingcompany@gmail.com",
+      href: "mailto:Maknicontractingcompany@gmail.com",
     },
     {
       icon: (

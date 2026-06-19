@@ -71,10 +71,10 @@ export default function Footer() {
               <li className="flex items-center gap-2">
                 <span>📧</span>
                 <a
-                  href="mailto:info@makani-contracting.com"
+                  href="mailto:Maknicontractingcompany@gmail.com"
                   className="hover:text-secondary transition-colors break-all"
                 >
-                  info@makani-contracting.com
+                  Maknicontractingcompany@gmail.com
                 </a>
               </li>
               <li className="flex items-center gap-2">
