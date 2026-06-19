@@ -9,11 +9,12 @@ const en = {
   },
   hero: {
     badge: 'Engineering Excellence',
-    line1: 'Makani Contracting',
+    line1: 'Makani Company for Contracting',
     line2: '& General Supplies',
     desc: 'Professional contracting, solar energy, facility management and supply solutions — committed to quality, safety, and on-time delivery.',
     cta: 'Get In Touch',
     whatsapp: 'WhatsApp Us',
+    portfolio: 'Download Portfolio',
   },
   about: {
     title: 'About Us',
@@ -132,11 +133,12 @@ const ar = {
   },
   hero: {
     badge: 'التميز الهندسي',
-    line1: 'مكاني للمقاولات',
-    line2: 'والتوريدات العامة',
+    line1: 'شركة مكاني للمقاولات',
+    line2: 'والتوريدات العمومية',
     desc: 'مقاولات احترافية، طاقة شمسية، إدارة مرافق وحلول توريد مع التزام راسخ بالجودة والسلامة والتسليم في الوقت المحدد.',
     cta: 'تواصل معنا',
     whatsapp: 'واتساب',
+    portfolio: 'تحميل الملف التعريفي',
   },
   about: {
     title: 'عن الشركة',
